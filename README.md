@@ -1,2 +1,2 @@
-# cordova-app
-Hibrid App using cordova, angular
+# angular-web-app
+Angular web app
